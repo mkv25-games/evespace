@@ -1,0 +1,11 @@
+{
+  "title": "EVE Space",
+  "author": "mkv25.net games",
+  "summary": [
+    "EVE Space is a clone of Carcassone themed around the game EVE online.",
+    "Instead of Cities, Roads, Farms and Monasteries; the game replaces these elements with Regions, Routes, Asteroids, and Planets."
+  ],
+  "tiles": {
+    "$ref": "/tile-data.json#/tiles"
+  }
+}

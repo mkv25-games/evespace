@@ -1,0 +1,19 @@
+[{
+    "asset": "../tiles/rendered/tile-01.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-01.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-02.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-02.json"
+    }
+}]

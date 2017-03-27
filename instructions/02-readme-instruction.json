@@ -1,0 +1,10 @@
+[{
+    "asset": "../README.md",
+    "template": "/readme-template.md",
+    "renderer": {
+        "type": "text"
+    },
+    "data": {
+        "$ref": "/data/readme.json"
+    }
+}]

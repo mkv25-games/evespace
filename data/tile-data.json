@@ -1,0 +1,9 @@
+{
+    "title": "Tile Data",
+    "author": "mkv25.net games",
+    "tiles": [{
+        "$ref": "/tiles/tile-01.json"
+    }, {
+        "$ref": "/tiles/tile-02.json"
+    }]
+}
