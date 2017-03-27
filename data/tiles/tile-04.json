@@ -1,5 +1,6 @@
 {
-  "name": "Name goes here",
+  "name": "Regional Trade Hub",
   "assetId": "tile-04",
-  "background": "XXXXXXXXXXXXXX"
+  "background": "https://vectr.com/markavian/dLevzUrCj.png?width=400&height=400&select=aZ8oCQMu3",
+  "shield": true
 }

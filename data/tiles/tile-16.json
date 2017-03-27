@@ -1,5 +1,6 @@
 {
-  "name": "Name goes here",
+  "name": "Secure Central Regional Edge",
   "assetId": "tile-16",
-  "background": "XXXXXXXXXXXXXX"
+  "background": "https://vectr.com/markavian/dLevzUrCj.png?width=400&height=400&select=hujFfCIf8",
+  "shield": true
 }

@@ -16,90 +16,95 @@ Instead of Cities, Roads, Farms and Monasteries; the game replaces these element
 <img src="tiles/rendered/tile-02.png" width="200px"/>
 
 
-### Name goes here
+### Regional Corridor
 <img src="tiles/rendered/tile-03.png" width="200px"/>
 
 
-### Name goes here
+### Regional Trade Hub
 <img src="tiles/rendered/tile-04.png" width="200px"/>
 
+- **Shield Zone**: Double points if controlling this tile as part of a region
 
-### Name goes here
+### Regional Corner
 <img src="tiles/rendered/tile-05.png" width="200px"/>
 
 
-### Name goes here
+### Regional Gap
 <img src="tiles/rendered/tile-06.png" width="200px"/>
 
 
-### Name goes here
+### Secure Regional Corner
 <img src="tiles/rendered/tile-07.png" width="200px"/>
 
+- **Shield Zone**: Double points if controlling this tile as part of a region
 
-### Name goes here
+### Regional Edge
 <img src="tiles/rendered/tile-08.png" width="200px"/>
 
 
-### Name goes here
+### Planetary Control Zone
 <img src="tiles/rendered/tile-09.png" width="200px"/>
 
 
-### Name goes here
+### Secure Regional Corridor
 <img src="tiles/rendered/tile-10.png" width="200px"/>
 
+- **Shield Zone**: Double points if controlling this tile as part of a region
 
-### Name goes here
+### Regional Trade Outpost
 <img src="tiles/rendered/tile-11.png" width="200px"/>
 
 
-### Name goes here
+### Regional Tax Office
 <img src="tiles/rendered/tile-12.png" width="200px"/>
 
 
-### Name goes here
+### Secure Regional Trade Corner
 <img src="tiles/rendered/tile-13.png" width="200px"/>
 
+- **Shield Zone**: Double points if controlling this tile as part of a region
 
-### Name goes here
+### Regional Trade Corner
 <img src="tiles/rendered/tile-14.png" width="200px"/>
 
 
-### Name goes here
+### Regional Corner
 <img src="tiles/rendered/tile-15.png" width="200px"/>
 
 
-### Name goes here
+### Secure Central Regional Edge
 <img src="tiles/rendered/tile-16.png" width="200px"/>
 
+- **Shield Zone**: Double points if controlling this tile as part of a region
 
-### Name goes here
+### Planetary Trade Control Zone
 <img src="tiles/rendered/tile-17.png" width="200px"/>
 
 
-### Name goes here
+### Regional Trade Outpost
 <img src="tiles/rendered/tile-18.png" width="200px"/>
 
 
-### Name goes here
+### Nullsec Trade Outpost
 <img src="tiles/rendered/tile-19.png" width="200px"/>
 
 
-### Name goes here
+### Nullsec Trade Route
 <img src="tiles/rendered/tile-20.png" width="200px"/>
 
 
-### Name goes here
+### Nullsec Trade Corner
 <img src="tiles/rendered/tile-21.png" width="200px"/>
 
 
-### Name goes here
+### Nullsec Trade Outpost
 <img src="tiles/rendered/tile-22.png" width="200px"/>
 
 
-### Name goes here
+### Regional Edge Trade Route
 <img src="tiles/rendered/tile-23.png" width="200px"/>
 
 
-### Name goes here
+### Central Regional Trade Hub
 <img src="tiles/rendered/tile-24.png" width="200px"/>
 

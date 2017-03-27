@@ -1,5 +1,6 @@
 {
-  "name": "Name goes here",
+  "name": "Secure Regional Corridor",
   "assetId": "tile-10",
-  "background": "XXXXXXXXXXXXXX"
+  "background": "https://vectr.com/markavian/dLevzUrCj.png?width=400&height=400&select=a4KA89vgzI",
+  "shield": true
 }
