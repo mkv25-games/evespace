@@ -16,4 +16,202 @@
     "data": {
         "$ref": "/data/tiles/tile-02.json"
     }
+}, {
+    "asset": "../tiles/rendered/tile-03.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-03.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-04.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-04.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-05.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-05.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-06.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-06.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-07.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-07.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-08.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-08.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-09.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-09.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-10.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-10.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-11.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-11.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-12.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-12.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-13.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-13.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-14.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-14.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-15.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-15.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-16.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-16.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-17.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-17.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-18.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-18.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-19.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-19.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-20.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-20.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-21.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-21.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-22.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-22.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-23.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-23.json"
+    }
+}, {
+    "asset": "../tiles/rendered/tile-24.png",
+    "template": "/tile-frame.html",
+    "renderer": {
+        "$ref": "/data/tile-renderer.json"
+    },
+    "data": {
+        "$ref": "/data/tiles/tile-24.json"
+    }
 }]

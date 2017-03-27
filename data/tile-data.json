@@ -5,5 +5,49 @@
         "$ref": "/tiles/tile-01.json"
     }, {
         "$ref": "/tiles/tile-02.json"
+    }, {
+        "$ref": "/tiles/tile-03.json"
+    }, {
+        "$ref": "/tiles/tile-04.json"
+    }, {
+        "$ref": "/tiles/tile-05.json"
+    }, {
+        "$ref": "/tiles/tile-06.json"
+    }, {
+        "$ref": "/tiles/tile-07.json"
+    }, {
+        "$ref": "/tiles/tile-08.json"
+    }, {
+        "$ref": "/tiles/tile-09.json"
+    }, {
+        "$ref": "/tiles/tile-10.json"
+    }, {
+        "$ref": "/tiles/tile-11.json"
+    }, {
+        "$ref": "/tiles/tile-12.json"
+    }, {
+        "$ref": "/tiles/tile-13.json"
+    }, {
+        "$ref": "/tiles/tile-14.json"
+    }, {
+        "$ref": "/tiles/tile-15.json"
+    }, {
+        "$ref": "/tiles/tile-16.json"
+    }, {
+        "$ref": "/tiles/tile-17.json"
+    }, {
+        "$ref": "/tiles/tile-18.json"
+    }, {
+        "$ref": "/tiles/tile-19.json"
+    }, {
+        "$ref": "/tiles/tile-20.json"
+    }, {
+        "$ref": "/tiles/tile-21.json"
+    }, {
+        "$ref": "/tiles/tile-22.json"
+    }, {
+        "$ref": "/tiles/tile-23.json"
+    }, {
+        "$ref": "/tiles/tile-24.json"
     }]
 }
