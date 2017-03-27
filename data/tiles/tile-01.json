@@ -2,5 +2,6 @@
     "name": "Regional Command Center",
     "assetId": "tile-01",
     "background": "https://vectr.com/markavian/dLevzUrCj.png?width=400&height=400&select=dLevzUrCjpage0",
+    "count": 1,
     "shield": true
 }

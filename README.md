@@ -85,7 +85,7 @@ Instead of Cities, Roads, Farms and Monasteries; the game replaces these element
 <img src="tiles/rendered/tile-18.png" width="200px"/>
 
 
-### Nullsec Trade Outpost
+### Nullsec Trade Citadel
 <img src="tiles/rendered/tile-19.png" width="200px"/>
 
 

@@ -1,5 +1,6 @@
 {
-  "name": "Nullsec Trade Outpost",
+  "name": "Nullsec Trade Citadel",
   "assetId": "tile-19",
-  "background": "https://vectr.com/markavian/dLevzUrCj.png?width=400&height=400&select=eHfTQ38Gr"
+  "background": "https://vectr.com/markavian/dLevzUrCj.png?width=400&height=400&select=eHfTQ38Gr",
+  "count": 1
 }

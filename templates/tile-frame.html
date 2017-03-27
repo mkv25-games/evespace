@@ -16,7 +16,13 @@
           position: absolute;
           top: 50px;
           left: 50px;
+        }
 
+        .count {
+          display: block;
+          position: absolute;
+          top: 100px;
+          left: 50px;
         }
 
     </style>
@@ -24,6 +30,7 @@
 
 <body style="background: url('{{background}}');">
     {{#if shield}}<b class="shield">shield</b>{{/if}}
+    {{#if count}}<b class="count">{{count}}</b>{{/if}}
 </body>
 
 </html>
